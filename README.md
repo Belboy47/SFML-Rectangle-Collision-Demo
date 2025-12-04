@@ -1,11 +1,11 @@
-# MySFMLApp
+# SFML Rectangle Collision Demo
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SFML](https://img.shields.io/badge/SFML-3.0.2-8A2BE2?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 ## Description
-**MySFMLApp** is a C++ graphical application using **SFML 3.0.2**. It creates multiple moving rectangles on a window with random colors and velocities, avoiding overlap at initialization and bouncing off the window edges and each other.
+**SFML-Rectangle-Collision-Demo** is a C++ graphical application using **SFML 3.0.2**. It creates multiple moving rectangles on a window with random colors and velocities, avoiding overlap at initialization and bouncing off the window edges and each other.
 
 ## Features
 - Randomized rectangle positions and velocities
@@ -24,7 +24,7 @@
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Belboy47/SFML-Rectangle-Collision-Demo.git
-cd MySFMLApp
+cd SFML-Rectangle-Collision-Demo
 ```
 
 ### 2. Create a build folder
