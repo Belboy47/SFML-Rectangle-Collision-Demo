@@ -7,19 +7,17 @@ Requirements
 
 Build Instructions
 1. Clone the repository
-
-2. cd SFML-Rectangle-Collision-Demo
-
-3. Create a build folder
+  
+2. Create a build folder
 mkdir build
 cd build
 
-4. Configure with CMake
+3. Configure with CMake
 cmake ..
 
-5. Build the project
+4. Build the project
 cmake --build . --config Release
 
-6. Run the executable
+5. Run the executable
 cd Release
 MySFMLApp.exe
