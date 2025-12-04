@@ -19,10 +19,6 @@
 - **CMake** ≥ 3.20
 - **SFML 3.0.2** (dynamically linked in this setup)
 
-## License
-This project uses the MIT License.  
-See [LICENSE](LICENSE) for details.
-
 ## Build Instructions
 
 ### 1. Clone the repository
