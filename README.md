@@ -3,7 +3,6 @@ Requirements
 ## Requirements
 - C++20 compatible compiler (e.g., MSVC, GCC, Clang)
 - CMake ≥ 3.20
-- SFML 3.0.2 (dynamically linked in this setup)
 
 
 Build Instructions
